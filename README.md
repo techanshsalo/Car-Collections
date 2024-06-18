@@ -1,5 +1,5 @@
 # Car-Collections
-<img src="content://media/external/downloads/1000027193 ">
+<img src="https://www.pexels.com/photo/mercedes-benz-parked-in-a-row-164634">
 # My React Widget
 
 A React widget for managing and displaying collections of old and new cars.
