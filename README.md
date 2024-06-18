@@ -1,5 +1,4 @@
 # Car-Collections
-https://github.com/techanshsalo/Car-Collections/assets/170102537/1ce27b35-f726-4b03-80b3-81ce0628f7b2
 <img src="https://www.pexels.com/photo/mercedes-benz-parked-in-a-row-164634">
 # My React Widget
 
