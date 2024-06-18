@@ -41,7 +41,7 @@ To build the project for production, run:
 npm run build
 
 
-Features
+#Features
 
 Add, modify, and delete car entries.
 Separate display for old and new cars based on the year.
@@ -51,7 +51,7 @@ Responsive design and user-friendly interface.
 
 
 
-Project Structure
+#Project Structure
 
 
 
@@ -72,7 +72,7 @@ Project Structure
 └── ...
 
 
-File Explanations
+#File Explanations
 
 public/index.html: The HTML template file.
 src/components/Widget.js: The main widget component that includes all the logic for displaying and managing the car collections.
