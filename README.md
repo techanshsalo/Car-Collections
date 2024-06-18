@@ -1,6 +1,6 @@
 # Car-Collections
 https://github.com/techanshsalo/Car-Collections/assets/170102537/1ce27b35-f726-4b03-80b3-81ce0628f7b2
-<img src="https://github.com/techanshsalo/Car-Collections/assets/170102537/1ce27b35-f726-4b03-80b3-81ce0628f7b2">
+<img src="/storage/emulated/0/Pictures/Screenshots">
 # My React Widget
 
 A React widget for managing and displaying collections of old and new cars.
